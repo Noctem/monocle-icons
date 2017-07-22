@@ -1,5 +1,5 @@
 Noctem
-https://www.github.com/Noctem/pokeminer
+https://www.github.com/Noctem/Monocle
 
 License
 
